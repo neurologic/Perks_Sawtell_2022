@@ -21,4 +21,5 @@ Anaconda environments exported as .yaml files from each of the computers used du
 
 
 **data_raw**
-This directory contains all of the raw data needed to generate the processed data (using scripts in the scripts directory) used in the analysis and visualization of the results reported in "Neural Readout of a Latency Code in the Active Electrosensory System" published in Cell Reports (also available on biorxiv at https://doi.org/10.1101/2021.12.14.472594).
+This directory can be downloaded from Zenodo (DOI: )
+It contains all of the raw data needed to generate the processed data (using scripts in the scripts directory) used in the analysis and visualization of the results reported in "Neural Readout of a Latency Code in the Active Electrosensory System" published in Cell Reports (also available on biorxiv at https://doi.org/10.1101/2021.12.14.472594).
